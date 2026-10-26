@@ -7,7 +7,7 @@ References:
             R. Schultz, D. Zbinden, J. Woo, A.P. Rinaldi, & S. Wiemer (2026)
             The M4 earthquakes induced by the Quest carbon capture and storage project
             Geophysical Research Letters, xx.
-            doi: xx.
+            doi: 10.1029/2026GL126186.
 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
